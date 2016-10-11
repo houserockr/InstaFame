@@ -2,7 +2,7 @@
 Follower generation on instagram
 
 ## Introduction
-InstaFame is a set of scripts for the well known [https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/](iMacros) Firefox extension that will help you to generate more followers.
+InstaFame is a set of scripts for the well known [iMacros](https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/) Firefox extension that will help you to generate more followers.
 
 ## Usage and Installation
 1. Install the iMacros extension in your firefox browser.
